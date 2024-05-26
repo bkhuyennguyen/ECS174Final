@@ -1,5 +1,7 @@
 # ECS174Final
 
+### Created by Aroop Biswal, guys put ur names hereee
+
 # Handwriting Similarity Detection
 
 This project is designed to verify if two pieces of handwriting are from the same author using a Siamese network.
