@@ -91,6 +91,7 @@ dependencies:
   - jasper=4.2.4=hb10263b_0
   - jedi=0.19.1=pyhd8ed1ab_0
   - jinja2=3.1.3=pyhd8ed1ab_0
+  - joblib=1.4.2=pyhd8ed1ab_0
   - json5=0.9.25=pyhd8ed1ab_0
   - jsonpointer=2.4=py312hb401068_3
   - jsonschema=4.21.1=pyhd8ed1ab_0
@@ -264,6 +265,7 @@ dependencies:
   - rich=13.7.1=pyhd8ed1ab_0
   - rpds-py=0.18.0=py312h1b0e595_0
   - scikit-image=0.22.0=py312haf8ecfc_2
+  - scikit-learn=1.5.0=py312hc214ba5_1
   - scipy=1.13.0=py312h8adb940_0
   - send2trash=1.8.3=pyh31c8845_0
   - setuptools=69.5.1=pyhd8ed1ab_0
@@ -281,6 +283,7 @@ dependencies:
   - tensorflow-estimator=2.16.1=cpu_py312ha140142_0
   - termcolor=2.4.0=pyhd8ed1ab_0
   - terminado=0.18.1=pyh31c8845_0
+  - threadpoolctl=3.5.0=pyhc1e730c_0
   - tifffile=2024.4.18=pyhd8ed1ab_0
   - tinycss2=1.3.0=pyhd8ed1ab_0
   - tk=8.6.13=h1abcd95_1
