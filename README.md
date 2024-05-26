@@ -1,6 +1,6 @@
 # ECS174Final
 
-### Created by Aroop Biswal, <guys put ur names hereee>
+### Created by Aroop Biswal, guys put ur names hereee
 
 # Handwriting Similarity Detection
 
