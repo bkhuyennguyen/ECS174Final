@@ -2,3 +2,4 @@ numpy
 scikit-learn
 tensorflow
 keras
+pillow
